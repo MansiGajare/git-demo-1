@@ -1,3 +1,4 @@
 hello world 
 
-adding changes
+adding changes ;
+change for the bug 2
