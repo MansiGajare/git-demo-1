@@ -2,4 +2,4 @@ fix the bug1.
 
 
 change for rebase with conflict 
-
+change on remote master from teammate ,Cr1 for pull operation
