@@ -1,1 +1,3 @@
 fix the bug1.
+
+change for rebase with conflict 
